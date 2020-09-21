@@ -3,9 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30503.244
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CountingDNANucleotides", "Rosalind\CountingDNANucleotides.csproj", "{28920E11-2703-4CA1-ABF3-4043B8278DD6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CountingDNANucleotides", "Rosalind\CountingDNANucleotides.csproj", "{28920E11-2703-4CA1-ABF3-4043B8278DD6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TranscribingDNAintoRNA", "TranscribingDNAintoRNA\TranscribingDNAintoRNA.csproj", "{63F9A52F-4F66-4885-9D72-4F6C3247636F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TranscribingDNAintoRNA", "TranscribingDNAintoRNA\TranscribingDNAintoRNA.csproj", "{63F9A52F-4F66-4885-9D72-4F6C3247636F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ComplementingaStrandofDNA", "ComplementingaStrandofDNA\ComplementingaStrandofDNA.csproj", "{39456BC6-D7D8-4957-818C-8C52BB057C99}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{63F9A52F-4F66-4885-9D72-4F6C3247636F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{63F9A52F-4F66-4885-9D72-4F6C3247636F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{63F9A52F-4F66-4885-9D72-4F6C3247636F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{39456BC6-D7D8-4957-818C-8C52BB057C99}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39456BC6-D7D8-4957-818C-8C52BB057C99}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39456BC6-D7D8-4957-818C-8C52BB057C99}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39456BC6-D7D8-4957-818C-8C52BB057C99}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
