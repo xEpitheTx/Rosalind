@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ComputingGCContent", "Compu
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CountingPointMutations", "CountingPointMutations\CountingPointMutations.csproj", "{ACFAA38D-6781-4E21-9156-E7DE3C174CEB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TranslatingRNAToProtein", "TranslatingRNAToProtein\TranslatingRNAToProtein.csproj", "{400BCA9E-3FFD-41DC-AA21-AD91A4DF9399}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{ACFAA38D-6781-4E21-9156-E7DE3C174CEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{ACFAA38D-6781-4E21-9156-E7DE3C174CEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{ACFAA38D-6781-4E21-9156-E7DE3C174CEB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{400BCA9E-3FFD-41DC-AA21-AD91A4DF9399}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{400BCA9E-3FFD-41DC-AA21-AD91A4DF9399}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{400BCA9E-3FFD-41DC-AA21-AD91A4DF9399}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{400BCA9E-3FFD-41DC-AA21-AD91A4DF9399}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
