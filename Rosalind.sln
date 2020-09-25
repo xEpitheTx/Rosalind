@@ -19,9 +19,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TranslatingRNAToProtein", "
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FindingAMotifInDna", "FindingAMotifInDna\FindingAMotifInDna.csproj", "{9CFD6CDD-69BE-43B6-A837-EB7B5B1E57AD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MedelsFirstLaw", "MedelsFirstLaw\MedelsFirstLaw.csproj", "{5E6C4783-53BD-4FEB-A5FA-690C9F4F0C41}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MedelsFirstLaw", "MedelsFirstLaw\MedelsFirstLaw.csproj", "{5E6C4783-53BD-4FEB-A5FA-690C9F4F0C41}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsensusAndProfile", "ConsensusAndProfile\ConsensusAndProfile.csproj", "{98951A85-14B4-4300-9F70-CD6DD3CD4BA0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsensusAndProfile", "ConsensusAndProfile\ConsensusAndProfile.csproj", "{98951A85-14B4-4300-9F70-CD6DD3CD4BA0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Utils", "Utils\Utils.csproj", "{B5A7B667-9C1F-42B1-8609-A900A86E835E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -69,6 +71,10 @@ Global
 		{98951A85-14B4-4300-9F70-CD6DD3CD4BA0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{98951A85-14B4-4300-9F70-CD6DD3CD4BA0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{98951A85-14B4-4300-9F70-CD6DD3CD4BA0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B5A7B667-9C1F-42B1-8609-A900A86E835E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5A7B667-9C1F-42B1-8609-A900A86E835E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5A7B667-9C1F-42B1-8609-A900A86E835E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5A7B667-9C1F-42B1-8609-A900A86E835E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
